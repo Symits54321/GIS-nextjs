@@ -1,0 +1,181 @@
+{
+
+    "users": [
+        {
+          "id": "1",
+          "name": "John Doe",
+          "imageurl": "/user-images/John%20Doe.jpg"
+        },
+        {
+          "id": "2",
+          "name": "Alice Smith",
+          "imageurl": "/user-images/Alice%20Smith.jpg"
+        },
+        {
+          "id": "3",
+          "name": "Bob Johnson",
+          "imageurl": "/user-images/Bob%20Johnson.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Emily Davis",
+          "imageurl": "/user-images/Emily%20Davis.jpg"
+        },
+        {
+          "id": "5",
+          "name": "Michael Wilson",
+          "imageurl": "/user-images/Michael%20Wilson.jpg"
+        },
+        {
+          "id": "6",
+          "name": "Sophia Brown",
+          "imageurl": "/user-images/Sophia%20Brown.jpg"
+        },
+        {
+          "id": "7",
+          "name": "David Taylor",
+          "imageurl": "/user-images/David%20Taylor.jpg"
+        }
+      ],
+
+
+
+    
+      "discussionforum": [
+        {
+          "id": "1",
+          "userId": "1",
+          "imageurl": "https://example.com/discussion1.jpg",
+          "sector": 1,
+          "desc": "The discussion revolves around the current economic climate, with a focus on inflation and its potential impact on various sectors. Participants share insights on strategies for mitigating risks and maximizing opportunities in volatile markets.",
+          "like": 20,
+          "comments": 10,
+          "views": 150,
+          "updated_on": "5 min ago"
+        },
+        {
+          "id": "2",
+          "userId": "2",
+          "imageurl": "https://example.com/discussion2.jpg",
+          "sector": 2,
+          "desc": "This discussion delves into the future trajectory of artificial intelligence (AI) and its implications for society. Participants explore the potential benefits and risks associated with AI advancements, ranging from automation and job displacement to ethical considerations and societal impact.",
+          "like": 15,
+          "comments": 8,
+          "views": 120,
+          "updated_on": "10 min ago"
+        },
+        {
+          "id": "3",
+          "userId": "3",
+          "imageurl": "https://example.com/discussion3.jpg",
+          "sector": 3,
+          "desc": "The discussion centers on recent advancements in cancer treatment and their potential impact on patient care and outcomes. Participants explore innovative therapies, including immunotherapy, targeted therapies, and precision medicine, which are revolutionizing the field of oncology.",
+          "like": 18,
+          "comments": 12,
+          "views": 200,
+          "updated_on": "15 min ago"
+        },
+        {
+          "id": "4",
+          "userId": "4",
+          "imageurl": "https://example.com/discussion4.jpg",
+          "sector": 4,
+          "desc": "This discussion offers an overview of the latest fashion trends for the upcoming season, covering everything from clothing and accessories to hair and makeup styles.",
+          "like": 12,
+          "comments": 5,
+          "views": 90,
+          "updated_on": "20 min ago"
+        },
+        {
+          "id": "5",
+          "userId": "5",
+          "imageurl": "https://example.com/discussion5.jpg",
+          "sector": 5,
+          "desc": "This discussion is a virtual travelogue, offering recommendations for off-the-beaten-path destinations and hidden gems around the world. Participants share personal travel experiences, insider tips, and must-visit attractions, creating a diverse itinerary for adventurous travelers.",
+          "like": 25,
+          "comments": 7,
+          "views": 180,
+          "updated_on": "25 min ago"
+        },
+        {
+          "id": "6",
+          "userId": "6",
+          "imageurl": "https://example.com/discussion6.jpg",
+          "sector": 6,
+          "desc": "This discussion focuses on the future of online learning, exploring emerging trends in educational technology and pedagogy. Participants discuss the impact of online learning platforms, MOOCs, and virtual classrooms on traditional education models.",
+          "like": 22,
+          "comments": 9,
+          "views": 160,
+          "updated_on": "30 min ago"
+        },
+        {
+          "id": "7",
+          "userId": "7",
+          "imageurl": "https://example.com/discussion7.jpg",
+          "sector": 7,
+          "desc": "This discussion provides insights into the latest movies and TV shows, with participants sharing reviews, recommendations, and behind-the-scenes trivia.",
+          "like": 30,
+          "comments": 14,
+          "views": 220,
+          "updated_on": "35 min ago"
+        }
+      ],
+
+
+
+      
+      
+    
+        "marketStories": [
+          {
+            "id": "1",
+            "imageurl": "https://example.com/story1.jpg",
+            "heading": "Tech Giants Report Strong Earnings Amid Market Volatility",
+            "desc": "Major tech companies such as Apple, Google, and Amazon have reported robust earnings in the face of ongoing market volatility. Despite concerns about rising interest rates and geopolitical tensions, these tech giants have continued to demonstrate resilience, driven by strong demand for their products and services. Apple's latest iPhone release exceeded expectations, contributing to record-breaking revenue figures. Google's advertising business saw a significant uptick, fueled by increased online activity. Amazon's e-commerce and cloud computing divisions also performed well, buoyed by continued consumer spending and enterprise adoption. Investors are cautiously optimistic about the tech sector's outlook, although uncertainties remain regarding regulatory scrutiny and supply chain disruptions."
+          },
+          {
+            "id": "2",
+            "imageurl": "https://example.com/story2.jpg",
+            "heading": "Renewable Energy Stocks Surge Amid Push for Clean Energy",
+            "desc": "Renewable energy stocks have experienced a surge in value as governments worldwide prioritize clean energy initiatives. With the growing emphasis on reducing carbon emissions and mitigating climate change, investments in wind, solar, and hydroelectric power have gained momentum. Companies specializing in renewable energy infrastructure and technology, such as Tesla, NextEra Energy, and Vestas Wind Systems, have seen their stock prices soar. Tesla's electric vehicle sales continue to rise, supported by increasing consumer demand and government incentives. NextEra Energy's portfolio of wind and solar projects has expanded, driving revenue growth and investor confidence. Vestas Wind Systems has secured several large-scale wind turbine contracts, highlighting the accelerating global transition to renewable energy sources."
+          },
+          {
+            "id": "3",
+            "imageurl": "https://example.com/story3.jpg",
+            "heading": "Biotech Stocks Rally on Breakthrough Drug Approvals",
+            "desc": "Biotech stocks have rallied following the approval of several breakthrough drugs for treating various diseases and medical conditions. Pharmaceutical companies such as Pfizer, Moderna, and Biogen have announced positive clinical trial results and regulatory milestones, boosting investor sentiment. Pfizer and Moderna's COVID-19 vaccines continue to be deployed globally, generating substantial revenue and contributing to efforts to control the pandemic. Biogen's Alzheimer's disease drug received FDA approval, marking a significant milestone in the treatment of neurodegenerative disorders. Additionally, advancements in gene therapy and precision medicine have created new opportunities for biotech companies, driving innovation and investment in the sector. Despite regulatory challenges and competitive pressures, the long-term outlook for biotech remains positive, fueled by ongoing research and development efforts."
+          },
+          {
+            "id": "4",
+            "imageurl": "https://example.com/story4.jpg",
+            "heading": "Cryptocurrency Market Volatility Persists Amid Regulatory Uncertainty",
+            "desc": "The cryptocurrency market continues to experience volatility as regulatory uncertainty and macroeconomic factors influence investor sentiment. Bitcoin and Ethereum, the two largest cryptocurrencies by market capitalization, have faced fluctuations in price amid regulatory crackdowns in certain jurisdictions. Concerns about energy consumption and environmental impact have also contributed to market turbulence, prompting discussions about the sustainability of cryptocurrency mining operations. Despite challenges, interest in blockchain technology and decentralized finance (DeFi) remains strong, with continued development of innovative applications and financial products. Investors are closely monitoring regulatory developments and geopolitical events for signals about the future direction of the cryptocurrency market."
+          },
+          {
+            "id": "5",
+            "imageurl": "https://example.com/story5.jpg",
+            "heading": "Retail Sector Faces Challenges Amid Shifting Consumer Behavior",
+            "desc": "The retail sector is grappling with challenges as shifting consumer behavior and supply chain disruptions reshape the industry landscape. Traditional brick-and-mortar retailers are facing increased competition from e-commerce giants such as Amazon, as more consumers opt for online shopping convenience. The rise of direct-to-consumer brands and subscription-based services has further intensified competition, forcing retailers to innovate and adapt their business models. Supply chain disruptions, including labor shortages and shipping delays, have also impacted inventory management and distribution networks, leading to higher operational costs and reduced profit margins. Despite these challenges, retailers are investing in digital transformation initiatives and omnichannel strategies to enhance the customer experience and drive long-term growth."
+          },
+          {
+            "id": "6",
+            "imageurl": "https://example.com/story6.jpg",
+            "heading": "Financial Sector Resilience Tested Amid Economic Uncertainty",
+            "desc": "The financial sector's resilience is being tested as global economic uncertainty persists, driven by factors such as inflationary pressures, geopolitical tensions, and central bank policy decisions. Banks and financial institutions are navigating a challenging operating environment characterized by low interest rates, narrowing profit margins, and regulatory scrutiny. Rising inflation and supply chain disruptions have fueled concerns about the sustainability of economic recovery efforts, prompting investors to reassess risk exposure and asset allocation strategies. Fintech companies are capitalizing on digitalization trends, offering innovative solutions for payments, lending, and wealth management. Despite headwinds, opportunities exist for financial sector participants to adapt to changing market dynamics and capitalize on emerging trends such as sustainable finance and digital asset management."
+          },
+          {
+            "id": "7",
+            "imageurl": "https://example.com/story7.jpg",
+            "heading": "Healthcare Industry Evolution Accelerates Amid Pandemic Fallout",
+            "desc": "The healthcare industry is undergoing rapid evolution as the fallout from the COVID-19 pandemic reshapes patient care delivery, digital health adoption, and healthcare infrastructure. Telemedicine and remote patient monitoring have become mainstream practices, enabling access to healthcare services while minimizing exposure to infectious diseases. Pharmaceutical companies are ramping up vaccine production and investing in research and development to address emerging health threats and treatment gaps. Healthcare providers are embracing value-based care models and population health management strategies to improve patient outcomes and reduce healthcare costs. Additionally, regulatory reforms and healthcare policy changes are driving innovation and collaboration across the industry. Despite ongoing challenges, the healthcare sector is poised for transformation, with opportunities for stakeholders to innovate and create value in a rapidly changing landscape."
+          },
+          {
+            "id": "8",
+            "imageurl": "https://example.com/story8.jpg",
+            "heading": "Real Estate Market Adapts to New Normal Amid Urban Exodus",
+            "desc": "The real estate market is adapting to the 'new normal' as urban exodus trends and remote work preferences reshape housing demand and property market dynamics. Suburban and rural areas are experiencing increased demand for single-family homes, driven by factors such as affordability, space, and lifestyle preferences. Conversely, urban centers are facing challenges as office vacancies rise and commercial real estate values decline. Developers and property investors are reevaluating investment strategies and repurposing assets to meet evolving market demands. Technology adoption, including virtual property tours and digital transaction platforms, is accelerating, transforming the real estate industry's traditional practices. Despite uncertainties, opportunities exist for innovative real estate solutions that cater to changing consumer preferences and urban development trends."
+          }
+        ]
+      
+      
+}
